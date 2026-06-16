@@ -3,8 +3,7 @@
     "name": "Zee Bangla",
     "urls": [
       "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts",
-      "https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8",
-      ""
+      "https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8"
     ]
   },
   {
@@ -15,6 +14,30 @@
   },
   {
     "name": "T-Sports",
+    "urls": [
+      "http://link3.m3u8"
+    ]
+  },
+  {
+    "name": "Sony Aath",
+    "urls": [
+      "http://link3.m3u8"
+    ]
+  },
+  {
+    "name": "Somoy TV",
+    "urls": [
+      "http://link3.m3u8"
+    ]
+  },
+  {
+    "name": "Colors Bangla",
+    "urls": [
+      "http://link3.m3u8"
+    ]
+  },
+  {
+    "name": "BTV",
     "urls": [
       "http://link3.m3u8"
     ]
