@@ -1,5 +1,17 @@
 [
 {
+    "name": "Deepto TV",
+    "urls": [
+      "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
+      ]
+  },
+{
+    "name": "BIJOY TV",
+    "urls": [
+      "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/581.ts"
+      ]
+  },
+{
     "name": "G SERIES",
     "urls": [
       "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8"
